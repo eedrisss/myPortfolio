@@ -1,0 +1,62 @@
+body {
+	background: #00101b;
+	font-size: 20px;
+	color:#eff2ed;
+	font-family: Book Antiqua;
+	/*background: url('main_bg.jpg');*/
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.welcome {
+	text-align: center;
+	padding:120px;
+	background: #00101b;
+	height: 100vh;
+	opacity: 0.8;
+}
+
+.clear {
+	clear: both;
+}
+.personal, .works {
+	width: 45%;
+}
+
+.personal {
+	float: left;
+	text-align: right;
+	border-right:solid 1px #ffc95e;
+	padding-right:60px;
+}
+
+.works {
+	float: right;
+	text-align: left;
+	padding-left: 30px;
+}
+
+.name {
+	color:#ffc95e;
+	border:solid 2px #ffc95e;
+	padding:5px 10px;
+	transition:0.3s;
+	font-family:lucida console;
+}
+
+.name:hover {
+	color:#609cb2;
+	border:solid 2px #609cb2;
+}
+
+.welcome h3 {
+	font-size: 40px;
+	color:;
+}
+
+.hey {
+	
+}
+.div_1 li {
+	font-size: 25px;
+}
